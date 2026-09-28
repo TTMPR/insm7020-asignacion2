@@ -1,0 +1,765 @@
+UNITID,OPEID6,INSTNM,CONTROL,CIPCODE,CIPDESC,CREDLEV,CREDDESC,IPEDSCOUNT1,IPEDSCOUNT2,EARN_COUNT_WNE_4YR,EARN_MDN_4YR
+100724,001005,Alabama State University,Public,1107,Computer Science.,3,Bachelor's Degree,13,10,PS,PS
+100830,008310,Auburn University at Montgomery,Public,1107,Computer Science.,3,Bachelor's Degree,34,38,PS,PS
+100858,001009,Auburn University,Public,1107,Computer Science.,3,Bachelor's Degree,71,66,PS,PS
+101189,001003,Faulkner University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,0,PS,PS
+101709,001004,University of Montevallo,Public,1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+101912,001033,Oakwood University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,6,PS,PS
+102049,001036,Samford University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+102094,001057,University of South Alabama,Public,1107,Computer Science.,3,Bachelor's Degree,46,50,29,80317
+102234,001041,Spring Hill College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+102298,001046,Talladega College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,0,PS,PS
+102377,001050,Tuskegee University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,5,PS,PS
+102553,011462,University of Alaska Anchorage,Public,1107,Computer Science.,3,Bachelor's Degree,26,23,PS,PS
+102614,001063,University of Alaska Fairbanks,Public,1107,Computer Science.,3,Bachelor's Degree,17,5,PS,PS
+104151,001081,Arizona State University Campus Immersion,Public,1107,Computer Science.,3,Bachelor's Degree,582,708,341,114868
+104179,001083,University of Arizona,Public,1107,Computer Science.,3,Bachelor's Degree,212,223,155,117451
+105330,001082,Northern Arizona University,Public,1107,Computer Science.,3,Bachelor's Degree,119,70,58,99067
+106342,001088,Lyon College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,14,PS,PS
+106397,001108,University of Arkansas,Public,1107,Computer Science.,3,Bachelor's Degree,116,93,33,95642
+107044,001097,Harding University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,30,28,37,92014
+107080,001099,Hendrix College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,17,PS,PS
+107141,001100,John Brown University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,5,PS,PS
+107512,001102,Ouachita Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,4,PS,PS
+107600,001103,Philander Smith University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,11,PS,PS
+108092,001110,University of Arkansas-Fort Smith,Public,1107,Computer Science.,3,Bachelor's Degree,27,29,PS,PS
+109785,001117,Azusa Pacific University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,8,PS,PS
+110097,001122,Biola University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,15,29,78943
+110361,001125,California Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,14,PS,PS
+110404,001131,California Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,77,67,25,200511
+110413,001133,California Lutheran University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,33,26,18,77030
+110422,001143,California Polytechnic State University-San Luis Obispo,Public,1107,Computer Science.,3,Bachelor's Degree,163,202,151,154784
+110486,007993,California State University-Bakersfield,Public,1107,Computer Science.,3,Bachelor's Degree,54,65,69,80432
+110495,001157,California State University-Stanislaus,Public,1107,Computer Science.,3,Bachelor's Degree,75,57,76,71601
+110510,001142,California State University-San Bernardino,Public,1107,Computer Science.,3,Bachelor's Degree,79,107,92,74845
+110529,001144,California State Polytechnic University-Pomona,Public,1107,Computer Science.,3,Bachelor's Degree,202,265,230,103494
+110538,001146,California State University-Chico,Public,1107,Computer Science.,3,Bachelor's Degree,81,66,60,127498
+110547,001141,California State University-Dominguez Hills,Public,1107,Computer Science.,3,Bachelor's Degree,82,83,51,59603
+110556,001147,California State University-Fresno,Public,1107,Computer Science.,3,Bachelor's Degree,52,64,45,71490
+110565,001137,California State University-Fullerton,Public,1107,Computer Science.,3,Bachelor's Degree,325,371,283,87460
+110574,001138,California State University-East Bay,Public,1107,Computer Science.,3,Bachelor's Degree,193,175,110,119900
+110583,001139,California State University-Long Beach,Public,1107,Computer Science.,3,Bachelor's Degree,254,306,220,101428
+110592,001140,California State University-Los Angeles,Public,1107,Computer Science.,3,Bachelor's Degree,149,170,133,87525
+110608,001153,California State University-Northridge,Public,1107,Computer Science.,3,Bachelor's Degree,251,258,153,101348
+110617,001150,California State University-Sacramento,Public,1107,Computer Science.,3,Bachelor's Degree,300,267,257,92519
+110635,001312,University of California-Berkeley,Public,1107,Computer Science.,3,Bachelor's Degree,848,994,304,204379
+110644,001313,University of California-Davis,Public,1107,Computer Science.,3,Bachelor's Degree,402,411,PS,PS
+110653,001314,University of California-Irvine,Public,1107,Computer Science.,3,Bachelor's Degree,744,467,577,127404
+110662,001315,University of California-Los Angeles,Public,1107,Computer Science.,3,Bachelor's Degree,349,340,PS,PS
+110671,001316,University of California-Riverside,Public,1107,Computer Science.,3,Bachelor's Degree,212,310,176,117705
+110680,001317,University of California-San Diego,Public,1107,Computer Science.,3,Bachelor's Degree,591,518,384,159487
+110705,001320,University of California-Santa Barbara,Public,1107,Computer Science.,3,Bachelor's Degree,161,162,90,149190
+110714,001321,University of California-Santa Cruz,Public,1107,Computer Science.,3,Bachelor's Degree,607,658,479,123422
+111948,001164,Chapman University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,52,57,30,112780
+112075,020705,Concordia University-Irvine,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,9,PS,PS
+112260,001170,Claremont McKenna College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,5,PS,PS
+115409,001171,Harvey Mudd College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,49,55,33,198257
+115755,001149,California State Polytechnic University-Humboldt,Public,1107,Computer Science.,3,Bachelor's Degree,28,42,48,74620
+117627,001215,La Sierra University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,6,PS,PS
+119605,011460,National University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,30,33,42,95555
+120184,001179,Notre Dame de Namur University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,0,PS,PS
+120254,001249,Occidental College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,36,31,PS,PS
+120883,001329,University of the Pacific,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,68,65,46,147511
+121257,001172,Pitzer College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,2,PS,PS
+121309,001262,Point Loma Nazarene University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,15,PS,PS
+121345,001173,Pomona College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,50,49,21,217051
+122409,001151,San Diego State University,Public,1107,Computer Science.,3,Bachelor's Degree,259,206,158,100586
+122436,010395,University of San Diego,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,29,44,23,149847
+122597,001154,San Francisco State University,Public,1107,Computer Science.,3,Bachelor's Degree,293,307,232,105166
+122612,001325,University of San Francisco,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,76,69,48,150341
+122728,001281,William Jessup University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,6,PS,PS
+122755,001155,San Jose State University,Public,1107,Computer Science.,3,Bachelor's Degree,288,244,PS,PS
+123165,001174,Scripps College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,2,PS,PS
+123554,001302,Saint Mary's College of California,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,3,PS,PS
+123572,001156,Sonoma State University,Public,1107,Computer Science.,3,Bachelor's Degree,62,50,55,106181
+123961,001328,University of Southern California,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,287,305,142,192897
+126580,004509,University of Colorado Colorado Springs,Public,1107,Computer Science.,3,Bachelor's Degree,71,91,54,97001
+126614,001370,University of Colorado Boulder,Public,1107,Computer Science.,3,Bachelor's Degree,473,483,222,121952
+126669,009401,Colorado Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+126775,001348,Colorado School of Mines,Public,1107,Computer Science.,3,Bachelor's Degree,202,222,98,127217
+127060,001371,University of Denver,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,49,54,40,121993
+127565,001360,Metropolitan State University of Denver,Public,1107,Computer Science.,3,Bachelor's Degree,70,82,78,111187
+127741,001349,University of Northern Colorado,Public,1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+127918,001363,Regis University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,36,33,64,114098
+128328,001369,United States Air Force Academy,Public,1107,Computer Science.,3,Bachelor's Degree,85,75,PS,PS
+128744,001416,University of Bridgeport,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,8,PS,PS
+128902,001379,Connecticut College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,27,32,PS,PS
+129020,001417,University of Connecticut,Public,1107,Computer Science.,3,Bachelor's Degree,108,138,72,108934
+129941,001397,University of New Haven,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,16,PS,PS
+130226,001402,Quinnipiac University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,23,20,77324
+130314,001409,University of Saint Joseph,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+130697,001424,Wesleyan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,54,62,PS,PS
+130934,001428,Delaware State University,Public,1107,Computer Science.,3,Bachelor's Degree,23,15,17,98411
+131113,007948,Wilmington University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,101,107,PS,PS
+131159,001434,American University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,24,29,16,117293
+131283,001437,The Catholic University of America,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,10,PS,PS
+131399,001441,University of the District of Columbia,Public,1107,Computer Science.,3,Bachelor's Degree,31,19,PS,PS
+131469,001444,George Washington University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,71,55,40,150716
+131496,001445,Georgetown University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,46,56,33,143900
+131520,001448,Howard University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,48,56,PS,PS
+132471,001466,Barry University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,5,PS,PS
+132602,001467,Bethune-Cookman University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,3,PS,PS
+133492,001487,Eckerd College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,2,PS,PS
+133553,001479,Embry-Riddle Aeronautical University-Daytona Beach,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,17,PS,PS
+133881,001469,Florida Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,44,38,29,91606
+133979,001486,Florida Memorial University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,1,PS,PS
+134079,001488,Florida Southern College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,26,31,19,82328
+135726,001536,University of Miami,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,83,53,43,121589
+136172,009841,University of North Florida,Public,1107,Computer Science.,3,Bachelor's Degree,52,67,PS,PS
+136215,001509,Nova Southeastern University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,23,PS,PS
+136330,008849,Palm Beach Atlantic University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,4,PS,PS
+137032,001526,Saint Leo University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,34,44,35,72645
+137476,001468,St. Thomas University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,7,PS,PS
+137546,001531,Stetson University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,14,PS,PS
+138354,003955,University of West Florida,Public,1107,Computer Science.,3,Bachelor's Degree,28,34,PS,PS
+138947,001559,Clark Atlanta University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,9,PS,PS
+139144,001554,Berry College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+139311,008976,Clayton  State University,Public,1107,Computer Science.,3,Bachelor's Degree,17,23,26,94876
+139658,001564,Emory University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,82,89,34,159541
+139764,001573,Georgia Southwestern State University,Public,1107,Computer Science.,3,Bachelor's Degree,7,4,PS,PS
+139861,001602,Georgia College & State University,Public,1107,Computer Science.,3,Bachelor's Degree,21,23,32,96335
+139940,001574,Georgia State University,Public,1107,Computer Science.,3,Bachelor's Degree,353,357,291,100582
+139959,001598,University of Georgia,Public,1107,Computer Science.,3,Bachelor's Degree,292,247,201,107397
+140447,001580,Mercer University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,16,PS,PS
+140553,001582,Morehouse College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,27,17,PS,PS
+141486,001605,Chaminade University of Honolulu,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+141565,001611,University of Hawaii at Hilo,Public,1107,Computer Science.,3,Bachelor's Degree,9,10,PS,PS
+141574,001610,University of Hawaii at Manoa,Public,1107,Computer Science.,3,Bachelor's Degree,93,85,68,77502
+141644,007279,Hawaii Pacific University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,23,11,29,85936
+142115,001616,Boise State University,Public,1107,Computer Science.,3,Bachelor's Degree,126,106,132,112120
+142276,001620,Idaho State University,Public,1107,Computer Science.,3,Bachelor's Degree,20,22,21,88888
+142285,001626,University of Idaho,Public,1107,Computer Science.,3,Bachelor's Degree,29,36,33,103530
+142461,001624,Northwest Nazarene University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,10,PS,PS
+142522,001625,Brigham Young University-Idaho,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,64,94,44,117895
+143084,001633,Augustana College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,27,21,26,83339
+143118,001634,Aurora University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,28,24,31,90089
+143288,001639,Blackburn College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,1,PS,PS
+143358,001641,Bradley University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,48,42,36,107379
+144005,001694,Chicago State University,Public,1107,Computer Science.,3,Bachelor's Degree,10,9,PS,PS
+144050,001774,University of Chicago,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,126,156,32,178068
+144740,001671,DePaul University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+144892,001674,Eastern Illinois University,Public,1107,Computer Science.,3,Bachelor's Degree,6,2,PS,PS
+144962,001676,Elmhurst University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,0,20,101273
+145336,009145,Governors State University,Public,1107,Computer Science.,3,Bachelor's Degree,31,25,25,79154
+145600,001776,University of Illinois Chicago,Public,1107,Computer Science.,3,Bachelor's Degree,328,337,265,120470
+145619,001767,Benedictine University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,11,21,91698
+145637,001775,University of Illinois Urbana-Champaign,Public,1107,Computer Science.,3,Bachelor's Degree,292,311,193,181981
+145646,001696,Illinois Wesleyan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,11,PS,PS
+145691,001688,Illinois College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,8,PS,PS
+145725,001691,Illinois Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,107,103,59,120953
+145813,001692,Illinois State University,Public,1107,Computer Science.,3,Bachelor's Degree,58,61,61,111099
+146427,001704,Knox College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,24,PS,PS
+146481,001706,Lake Forest College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,9,17,77554
+146612,001707,Lewis University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,114,124,129,82159
+147013,001722,McKendree University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,6,PS,PS
+147244,001724,Millikin University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,4,PS,PS
+147341,001725,Monmouth College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,6,PS,PS
+147660,001734,North Central College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,24,26,79877
+147703,001737,Northern Illinois University,Public,1107,Computer Science.,3,Bachelor's Degree,132,110,176,93438
+147767,001739,Northwestern University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,102,127,61,155106
+147776,001693,Northeastern Illinois University,Public,1107,Computer Science.,3,Bachelor's Degree,111,103,124,88917
+147828,001741,Olivet Nazarene University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,4,PS,PS
+148016,001744,Principia College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,4,PS,PS
+148131,001745,Quincy University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,3,PS,PS
+148405,001748,Rockford University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,12,PS,PS
+148487,001749,Roosevelt University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,14,32,58964
+148496,001750,Dominican University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,14,20,86730
+148584,001664,University of St Francis,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,2,PS,PS
+148627,001768,Saint Xavier University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,31,31,PS,PS
+148654,009333,University of Illinois Springfield,Public,1107,Computer Science.,3,Bachelor's Degree,76,87,128,102020
+149222,001758,Southern Illinois University-Carbondale,Public,1107,Computer Science.,3,Bachelor's Degree,26,23,58,91299
+149231,001759,Southern Illinois University Edwardsville,Public,1107,Computer Science.,3,Bachelor's Degree,72,82,84,106082
+149505,001771,Trinity Christian College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,5,PS,PS
+149781,001781,Wheaton College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,17,PS,PS
+150066,001785,Anderson University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,8,PS,PS
+150136,001786,Ball State University,Public,1107,Computer Science.,3,Bachelor's Degree,73,54,PS,PS
+150145,001787,Bethel University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,2,PS,PS
+150400,001792,DePauw University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,41,46,34,120076
+150455,001793,Earlham College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,6,PS,PS
+150534,001795,University of Evansville,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,2,PS,PS
+150604,001798,Franklin College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+150668,001799,Goshen College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,1,PS,PS
+150677,001800,Grace College and Theological Seminary,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+150756,001801,Hanover College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,5,PS,PS
+151102,001828,Purdue University Fort Wayne,Public,1107,Computer Science.,3,Bachelor's Degree,39,42,49,101396
+151111,001813,Indiana University-Indianapolis,Public,1107,Computer Science.,3,Bachelor's Degree,88,101,92,94380
+151263,001804,University of Indianapolis,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,13,PS,PS
+151290,001805,Indiana Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,5,PS,PS
+151306,001808,University of Southern Indiana,Public,1107,Computer Science.,3,Bachelor's Degree,33,27,36,77100
+151333,001814,Indiana University-Kokomo,Public,1107,Computer Science.,3,Bachelor's Degree,10,9,PS,PS
+151342,001816,Indiana University-South Bend,Public,1107,Computer Science.,3,Bachelor's Degree,20,12,26,99574
+151351,001809,Indiana University-Bloomington,Public,1107,Computer Science.,3,Bachelor's Degree,144,184,101,114199
+151360,001815,Indiana University-Northwest,Public,1107,Computer Science.,3,Bachelor's Degree,15,,31,49084
+151379,001817,Indiana University-Southeast,Public,1107,Computer Science.,3,Bachelor's Degree,17,21,23,102250
+151777,001820,Manchester University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+151786,001821,Marian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,0,PS,PS
+152318,001830,Rose-Hulman Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,94,63,67,123753
+152530,001838,Taylor University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,13,19,108812
+152567,001839,Trine University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+152600,001842,Valparaiso University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,22,14,29,94111
+152673,001844,Wabash College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,11,PS,PS
+152992,001846,Briar Cliff University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,3,PS,PS
+153108,001850,Central College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,8,18,89838
+153126,001852,Clarke University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,5,PS,PS
+153144,001854,Coe College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,10,PS,PS
+153162,001856,Cornell College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,15,16,84938
+153302,023289,Emmaus Bible College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,0,PS,PS
+153375,001867,Grand View University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,8,PS,PS
+153384,001868,Grinnell College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,56,62,36,109892
+153603,001869,Iowa State University,Public,1107,Computer Science.,3,Bachelor's Degree,96,106,110,104211
+153658,001892,University of Iowa,Public,1107,Computer Science.,3,Bachelor's Degree,96,110,PS,PS
+153825,001873,Loras College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,7,PS,PS
+153834,001874,Luther College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,17,PS,PS
+153861,011113,Maharishi International University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,7,PS,PS
+154013,001880,Mount Mercy University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,3,PS,PS
+154095,001890,University of Northern Iowa,Public,1107,Computer Science.,3,Bachelor's Degree,33,30,71,89305
+154101,001883,Northwestern College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,5,PS,PS
+154235,001889,Saint Ambrose University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,13,PS,PS
+154350,001887,Simpson College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,5,23,91318
+154590,001900,William Penn University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,1,PS,PS
+154688,001903,Baker University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,2,PS,PS
+154712,010256,Benedictine College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,8,PS,PS
+154749,001905,Bethel College-North Newton,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+155520,007032,MidAmerica Nazarene University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,0,PS,PS
+155681,001926,Pittsburg State University,Public,1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+155900,001940,Southwestern College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,20,PS,PS
+156125,001950,Wichita State University,Public,1107,Computer Science.,3,Bachelor's Degree,68,70,22,97335
+156365,001959,Campbellsville University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,5,PS,PS
+156408,001961,Centre College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,12,19,93000
+156745,001964,Georgetown College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+157289,001999,University of Louisville,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+157377,001975,Midway University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+157401,001977,Murray State University,Public,1107,Computer Science.,3,Bachelor's Degree,21,16,27,67173
+157951,002002,Western Kentucky University,Public,1107,Computer Science.,3,Bachelor's Degree,26,22,PS,PS
+159009,002006,Grambling State University,Public,1107,Computer Science.,3,Bachelor's Degree,5,10,PS,PS
+159382,002011,Louisiana State University at Alexandria,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+159391,002010,Louisiana State University and Agricultural & Mechanical College,Public,1107,Computer Science.,3,Bachelor's Degree,141,147,103,89307
+159416,002013,Louisiana State University-Shreveport,Public,1107,Computer Science.,3,Bachelor's Degree,17,27,32,80276
+159568,002007,Louisiana Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,2,PS,PS
+159647,002008,Louisiana Tech University,Public,1107,Computer Science.,3,Bachelor's Degree,50,55,63,96365
+159717,002017,McNeese State University,Public,1107,Computer Science.,3,Bachelor's Degree,28,33,18,64834
+159939,002015,University of New Orleans,Public,1107,Computer Science.,3,Bachelor's Degree,55,65,46,99548
+159993,002020,University of Louisiana at Monroe,Public,1107,Computer Science.,3,Bachelor's Degree,30,22,PS,PS
+160612,002024,Southeastern Louisiana University,Public,1107,Computer Science.,3,Bachelor's Degree,22,33,29,72410
+160621,002025,Southern University and A & M College,Public,1107,Computer Science.,3,Bachelor's Degree,26,16,28,58951
+160658,002031,University of Louisiana at Lafayette,Public,1107,Computer Science.,3,Bachelor's Degree,85,64,61,83527
+160755,002029,Tulane University of Louisiana,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,36,52,18,118931
+160904,002032,Xavier University of Louisiana,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,8,PS,PS
+161004,002038,Bowdoin College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,42,28,19,137611
+161086,002039,Colby College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,45,43,PS,PS
+161226,002040,University of Maine at Farmington,Public,1107,Computer Science.,3,Bachelor's Degree,4,1,PS,PS
+161253,002053,University of Maine,Public,1107,Computer Science.,3,Bachelor's Degree,30,39,30,99413
+161341,002033,University of Maine at Presque Isle,Public,1107,Computer Science.,3,Bachelor's Degree,0,1,PS,PS
+161554,002054,University of Southern Maine,Public,1107,Computer Science.,3,Bachelor's Degree,21,12,PS,PS
+161563,002052,Thomas College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,6,17,76089
+162210,002067,Washington Adventist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,1,PS,PS
+162283,002068,Coppin State University,Public,1107,Computer Science.,3,Bachelor's Degree,3,10,PS,PS
+162584,002072,Frostburg State University,Public,1107,Computer Science.,3,Bachelor's Degree,21,15,30,83990
+162760,002076,Hood College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,18,PS,PS
+163046,002078,Loyola University Maryland,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,25,19,124858
+163268,002105,University of Maryland-Baltimore County,Public,1107,Computer Science.,3,Bachelor's Degree,314,330,202,105706
+163286,002103,University of Maryland-College Park,Public,1107,Computer Science.,3,Bachelor's Degree,954,873,228,137931
+163453,002083,Morgan State University,Public,1107,Computer Science.,3,Bachelor's Degree,,,25,90183
+164076,002099,Towson University,Public,1107,Computer Science.,3,Bachelor's Degree,167,176,146,104653
+164155,002101,United States Naval Academy,Public,1107,Computer Science.,3,Bachelor's Degree,45,40,PS,PS
+164216,002108,Washington College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,6,PS,PS
+164465,002115,Amherst College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,55,55,20,142680
+164562,002118,Assumption University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,10,PS,PS
+164924,002128,Boston College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,125,144,61,143204
+164988,002130,Boston University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,294,305,151,136667
+165015,002133,Brandeis University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,99,92,60,123460
+165024,002183,Bridgewater State University,Public,1107,Computer Science.,3,Bachelor's Degree,44,47,51,87099
+165334,002139,Clark University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,27,23,18,115804
+165529,002143,Curry College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,2,PS,PS
+165644,002145,Eastern Nazarene College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,2,PS,PS
+165671,002147,Emmanuel College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+165699,002148,Endicott College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,7,PS,PS
+165820,002184,Fitchburg State University,Public,1107,Computer Science.,3,Bachelor's Degree,22,13,PS,PS
+165936,002153,Gordon College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,14,PS,PS
+166018,004661,Hampshire College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,0,PS,PS
+166027,002155,Harvard University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,173,183,47,203169
+166124,002141,College of the Holy Cross,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,26,15,PS,PS
+166513,002161,University of Massachusetts-Lowell,Public,1107,Computer Science.,3,Bachelor's Degree,173,218,161,111612
+166629,002221,University of Massachusetts-Amherst,Public,1107,Computer Science.,3,Bachelor's Degree,391,498,188,123519
+166638,002222,University of Massachusetts-Boston,Public,1107,Computer Science.,3,Bachelor's Degree,71,75,PS,PS
+166683,002178,Massachusetts Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,384,389,213,225141
+166850,002120,Merrimack College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,4,17,114115
+166939,002192,Mount Holyoke College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,42,33,21,120021
+167394,002140,College of Our Lady of the Elms,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,9,PS,PS
+167792,002671,Simon's Rock at Bard College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,5,PS,PS
+167835,002209,Smith College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,41,41,PS,PS
+167996,002217,Stonehill College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,9,PS,PS
+168005,002218,Suffolk University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,24,PS,PS
+168148,002219,Tufts University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,171,211,105,156343
+168227,002225,Wentworth Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,116,101,114,121671
+168254,002226,Western New England University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,25,34,100055
+168263,002189,Westfield State University,Public,1107,Computer Science.,3,Bachelor's Degree,14,12,21,95932
+168281,002227,Wheaton College (Massachusetts),"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,11,PS,PS
+168342,002229,Williams College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,49,56,35,209574
+168421,002233,Worcester Polytechnic Institute,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,199,222,166,134208
+168528,002234,Adrian College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,1,PS,PS
+168546,002235,Albion College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+168591,002236,Alma College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,9,PS,PS
+168740,002238,Andrews University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,8,PS,PS
+168847,004673,Baker College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,18,29,80179
+169080,002241,Calvin University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,35,31,23,95410
+169248,002243,Central Michigan University,Public,1107,Computer Science.,3,Bachelor's Degree,49,59,69,89216
+169363,003842,Concordia University Ann Arbor,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,23,75487
+169479,002249,Davenport University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,47,43,53,76469
+169716,002323,University of Detroit Mercy,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,7,PS,PS
+169798,002259,Eastern Michigan University,Public,1107,Computer Science.,3,Bachelor's Degree,86,84,18,74818
+169983,002262,Kettering University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,38,38,29,106638
+170037,002266,Cornerstone University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+170639,002293,Lake Superior State University,Public,1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+170675,002279,Lawrence Technological University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,31,24,21,82464
+170806,002282,Madonna University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,3,PS,PS
+171128,002292,Michigan Technological University,Public,1107,Computer Science.,3,Bachelor's Degree,82,68,82,105428
+171146,002327,University of Michigan-Flint,Public,1107,Computer Science.,3,Bachelor's Degree,31,34,31,95183
+172334,002318,Spring Arbor University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,5,PS,PS
+172699,002330,Western Michigan University,Public,1107,Computer Science.,3,Bachelor's Degree,47,71,59,90876
+173045,002334,Augsburg University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,17,43,95637
+173124,002336,Bemidji State University,Public,1107,Computer Science.,3,Bachelor's Degree,3,10,PS,PS
+173142,002337,Bethany Lutheran College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,3,PS,PS
+173258,002340,Carleton College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,59,80,PS,PS
+173300,002346,Concordia College at Moorhead,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,15,PS,PS
+173328,002347,Concordia University-Saint Paul,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,29,14,25,105577
+173647,002353,Gustavus Adolphus College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,24,PS,PS
+173920,002360,Minnesota State University-Mankato,Public,1107,Computer Science.,3,Bachelor's Degree,1,8,PS,PS
+174020,010374,Metropolitan State University,Public,1107,Computer Science.,3,Bachelor's Degree,112,105,115,92342
+174066,003969,University of Minnesota-Twin Cities,Public,1107,Computer Science.,3,Bachelor's Degree,533,612,333,111661
+174233,002388,University of Minnesota-Duluth,Public,1107,Computer Science.,3,Bachelor's Degree,78,69,96,91911
+174251,002389,University of Minnesota-Morris,Public,1107,Computer Science.,3,Bachelor's Degree,20,20,27,92449
+174358,002367,Minnesota State University Moorhead,Public,1107,Computer Science.,3,Bachelor's Degree,15,22,PS,PS
+174437,002369,North Central University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,3,PS,PS
+174491,002371,University of Northwestern-St Paul,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,16,PS,PS
+174747,002341,College of Saint Benedict,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,9,PS,PS
+174783,002377,Saint Cloud State University,Public,1107,Computer Science.,3,Bachelor's Degree,39,48,34,103765
+174792,002379,Saint Johns University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,25,26,19,101188
+174817,002380,Saint Mary's University of Minnesota,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,11,PS,PS
+174844,002382,St Olaf College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,24,33,23,122912
+174914,002345,University of St Thomas,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,53,36,35,107938
+175078,002375,Southwest Minnesota State University,Public,1107,Computer Science.,3,Bachelor's Degree,9,9,PS,PS
+175272,002394,Winona State University,Public,1107,Computer Science.,3,Bachelor's Degree,44,46,73,88164
+175421,002397,Belhaven University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,9,PS,PS
+175856,002410,Jackson State University,Public,1107,Computer Science.,3,Bachelor's Degree,,,24,90577
+176053,002415,Mississippi Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,10,PS,PS
+176318,002433,Rust College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,3,PS,PS
+176406,002439,Tougaloo College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,3,PS,PS
+176789,002450,Calvary University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+176947,002453,Central Methodist University-College of Liberal Arts and Sciences,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,10,38,59648
+176965,002454,University of Central Missouri,Public,1107,Computer Science.,3,Bachelor's Degree,65,72,57,90822
+177065,002456,Columbia College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,5,PS,PS
+177144,002460,Culver-Stockton College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+177214,002461,Drury University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+178059,002482,Maryville University of Saint Louis,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,13,PS,PS
+178369,002489,Missouri Valley College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,1,PS,PS
+178387,002490,Missouri Western State University,Public,1107,Computer Science.,3,Bachelor's Degree,16,19,PS,PS
+178402,002518,University of Missouri-Kansas City,Public,1107,Computer Science.,3,Bachelor's Degree,91,87,54,97043
+178420,002519,University of Missouri-St Louis,Public,1107,Computer Science.,3,Bachelor's Degree,66,60,95,102723
+178615,002495,Truman State University,Public,1107,Computer Science.,3,Bachelor's Degree,40,32,PS,PS
+178697,002500,College of the Ozarks,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,2,PS,PS
+178721,002498,Park University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+179043,002499,Rockhurst University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,3,PS,PS
+179159,002506,Saint Louis University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,35,35,26,91081
+179326,002502,Southwest Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,21,16,62016
+179566,002503,Missouri State University-Springfield,Public,1107,Computer Science.,3,Bachelor's Degree,52,55,77,93094
+179867,002520,Washington University in St Louis,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,205,181,63,177066
+179894,002521,Webster University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,40,25,25,66113
+180106,002526,Carroll College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,5,PS,PS
+180258,002527,University of Providence,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,2,PS,PS
+180416,002531,Montana Technological University,Public,1107,Computer Science.,3,Bachelor's Degree,7,4,PS,PS
+180461,002532,Montana State University,Public,1107,Computer Science.,3,Bachelor's Degree,100,102,90,111728
+180489,002536,The University of Montana,Public,1107,Computer Science.,3,Bachelor's Degree,13,20,PS,PS
+180595,002534,Rocky Mountain College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,3,PS,PS
+180984,002541,Concordia University-Nebraska,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,7,PS,PS
+181002,002542,Creighton University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,18,PS,PS
+181020,002544,Doane University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,5,PS,PS
+181127,002548,Hastings College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,7,PS,PS
+181394,002554,University of Nebraska at Omaha,Public,1107,Computer Science.,3,Bachelor's Degree,84,102,59,107248
+181464,002565,University of Nebraska-Lincoln,Public,1107,Computer Science.,3,Bachelor's Degree,12,123,PS,PS
+182281,002569,University of Nevada-Las Vegas,Public,1107,Computer Science.,3,Bachelor's Degree,160,169,116,94475
+182290,002568,University of Nevada-Reno,Public,1107,Computer Science.,3,Bachelor's Degree,119,133,PS,PS
+182670,002573,Dartmouth College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,130,136,62,201702
+183026,002580,Southern New Hampshire University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,437,631,44,115259
+183080,002591,Plymouth State University,Public,1107,Computer Science.,3,Bachelor's Degree,19,8,26,96494
+183239,002587,Saint Anselm College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,11,PS,PS
+183822,002597,Bloomfield College of Montclair State University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,7,PS,PS
+183910,002598,Caldwell University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,13,PS,PS
+183974,002599,Centenary University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+184348,002603,Drew University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,18,PS,PS
+184603,002607,Fairleigh Dickinson University-Metropolitan Campus,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,14,PS,PS
+185590,002617,Montclair State University,Public,1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+185828,002621,New Jersey Institute of Technology,Public,1107,Computer Science.,3,Bachelor's Degree,12,7,PS,PS
+186131,002627,Princeton University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,172,201,30,217973
+186283,002628,Rider University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,19,PS,PS
+186618,002600,Saint Elizabeth University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+186867,002639,Stevens Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,132,156,95,138468
+186876,009345,Stockton University,Public,1107,Computer Science.,3,Bachelor's Degree,39,44,PS,PS
+187967,002654,New Mexico Institute of Mining and Technology,Public,1107,Computer Science.,3,Bachelor's Degree,26,32,PS,PS
+188340,002665,Vaughn College of Aeronautics and Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+189088,002671,Bard College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+189705,002681,Canisius University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,15,PS,PS
+190044,002699,Clarkson University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,30,47,103132
+190099,002701,Colgate University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,49,62,27,161980
+190150,002707,Columbia University in the City of New York,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,357,391,149,188265
+190415,002711,Cornell University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,504,507,296,223309
+190512,007273,CUNY Bernard M Baruch College,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+190549,002687,CUNY Brooklyn College,Public,1107,Computer Science.,3,Bachelor's Degree,5,4,PS,PS
+190558,002698,College of Staten Island CUNY,Public,1107,Computer Science.,3,Bachelor's Degree,85,80,76,89093
+190567,002688,CUNY City College,Public,1107,Computer Science.,3,Bachelor's Degree,132,105,74,116238
+190576,004765,CUNY Graduate School and University Center,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+190594,002689,CUNY Hunter College,Public,1107,Computer Science.,3,Bachelor's Degree,276,292,107,102321
+190600,002693,CUNY John Jay College of Criminal Justice,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+190637,007022,CUNY Lehman College,Public,1107,Computer Science.,3,Bachelor's Degree,103,100,112,85351
+190646,010097,CUNY Medgar Evers College,Public,1107,Computer Science.,3,Bachelor's Degree,7,8,PS,PS
+190664,002690,CUNY Queens College,Public,1107,Computer Science.,3,Bachelor's Degree,311,289,163,112903
+190691,004759,CUNY York College,Public,1107,Computer Science.,3,Bachelor's Degree,45,30,60,73044
+191649,002732,Hofstra University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,34,46,41,88137
+191931,002737,Iona University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,21,23,PS,PS
+191968,002739,Ithaca College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,7,23,98373
+192448,002751,Long Island University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,10,PS,PS
+192749,002760,Manhattanville University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,4,PS,PS
+192819,002765,Marist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,46,47,83,111893
+193016,002772,Mercy University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,11,PS,PS
+193900,002785,New York University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+194161,002790,Alliance University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+194310,002791,Pace University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,63,63,46,117835
+194824,002803,Rensselaer Polytechnic Institute,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,284,250,242,141528
+194958,002805,Roberts Wesleyan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,4,PS,PS
+195003,002806,Rochester Institute of Technology,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,186,195,155,135702
+195030,002894,University of Rochester,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,161,141,82,155464
+195234,002705,The College of Saint Rose,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,13,PS,PS
+195243,002832,St. Thomas Aquinas College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+195544,002825,St. Joseph's University-New York,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,18,PS,PS
+196042,002858,Farmingdale State College,Public,1107,Computer Science.,3,Bachelor's Degree,0,12,PS,PS
+196060,002835,University at Albany,Public,1107,Computer Science.,3,Bachelor's Degree,146,112,PS,PS
+196079,002836,Binghamton University,Public,1107,Computer Science.,3,Bachelor's Degree,115,117,81,126183
+196088,002837,University at Buffalo,Public,1107,Computer Science.,3,Bachelor's Degree,269,254,177,105160
+196097,002838,Stony Brook University,Public,1107,Computer Science.,3,Bachelor's Degree,258,256,PS,PS
+196112,011678,SUNY Polytechnic Institute,Public,1107,Computer Science.,3,Bachelor's Degree,,54,PS,PS
+196121,002841,SUNY Brockport,Public,1107,Computer Science.,3,Bachelor's Degree,42,38,PS,PS
+196158,002844,SUNY at Fredonia,Public,1107,Computer Science.,3,Bachelor's Degree,17,25,PS,PS
+196185,002847,SUNY Oneonta,Public,1107,Computer Science.,3,Bachelor's Degree,24,12,PS,PS
+196194,002848,State University of New York at Oswego,Public,1107,Computer Science.,3,Bachelor's Degree,39,48,PS,PS
+196200,002850,SUNY College at Potsdam,Public,1107,Computer Science.,3,Bachelor's Degree,13,5,PS,PS
+196246,002849,State University of New York at Plattsburgh,Public,1107,Computer Science.,3,Bachelor's Degree,28,21,PS,PS
+196592,010142,Touro University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,51,49,18,84481
+197197,002899,Wagner College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,5,PS,PS
+197230,002901,Wells College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+197869,002906,Appalachian State University,Public,1107,Computer Science.,3,Bachelor's Degree,67,85,94,97670
+198385,002918,Davidson College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,34,54,PS,PS
+198419,002920,Duke University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,370,410,167,195809
+198464,002923,East Carolina University,Public,1107,Computer Science.,3,Bachelor's Degree,52,74,72,98406
+198507,002926,Elizabeth City State University,Public,1107,Computer Science.,3,Bachelor's Degree,13,7,20,68723
+198516,002927,Elon University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,43,35,PS,PS
+198543,002928,Fayetteville State University,Public,1107,Computer Science.,3,Bachelor's Degree,24,21,19,36164
+198561,002929,Gardner-Webb University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,22,5,16,68175
+198695,002933,High Point University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,24,26,PS,PS
+198950,002945,Meredith College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,3,PS,PS
+198969,002946,Methodist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,7,PS,PS
+199102,002905,North Carolina A & T State University,Public,1107,Computer Science.,3,Bachelor's Degree,57,64,51,105342
+199111,002907,University of North Carolina Asheville,Public,1107,Computer Science.,3,Bachelor's Degree,28,26,42,88084
+199120,002974,University of North Carolina at Chapel Hill,Public,1107,Computer Science.,3,Bachelor's Degree,432,427,282,137047
+199139,002975,University of North Carolina at Charlotte,Public,1107,Computer Science.,3,Bachelor's Degree,593,644,555,93037
+199148,002976,University of North Carolina at Greensboro,Public,1107,Computer Science.,3,Bachelor's Degree,56,75,77,86372
+199193,002972,North Carolina State University at Raleigh,Public,1107,Computer Science.,3,Bachelor's Degree,281,287,198,113478
+199218,002984,University of North Carolina Wilmington,Public,1107,Computer Science.,3,Bachelor's Degree,86,96,72,88219
+199281,002954,University of North Carolina at Pembroke,Public,1107,Computer Science.,3,Bachelor's Degree,28,40,22,80579
+199643,002962,Shaw University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,6,PS,PS
+199847,002978,Wake Forest University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,49,67,38,115493
+199999,002986,Winston-Salem State University,Public,1107,Computer Science.,3,Bachelor's Degree,17,6,20,94298
+200004,002981,Western Carolina University,Public,1107,Computer Science.,3,Bachelor's Degree,21,22,32,86853
+200217,002992,University of Mary,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,,PS,PS
+200332,002997,North Dakota State University-Main Campus,Public,1107,Computer Science.,3,Bachelor's Degree,78,80,77,87562
+200800,003123,University of Akron Main Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,,PS,PS
+201104,003012,Ashland University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,8,PS,PS
+201195,003014,Baldwin Wallace University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,6,PS,PS
+201548,003023,Capital University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,20,PS,PS
+201645,003024,Case Western Reserve University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,141,149,74,143580
+201654,003025,Cedarville University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,24,32,23,109817
+201690,003026,Central State University,Public,1107,Computer Science.,3,Bachelor's Degree,7,6,PS,PS
+202134,003032,Cleveland State University,Public,1107,Computer Science.,3,Bachelor's Degree,48,68,27,100385
+202480,003127,University of Dayton,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,37,31,21,102468
+202523,003042,Denison University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,18,PS,PS
+202763,003045,The University of Findlay,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,4,PS,PS
+202806,003046,Franklin University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,18,25,111131
+203085,003048,Heidelberg University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,12,PS,PS
+203128,003049,Hiram College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,3,PS,PS
+203368,003050,John Carroll University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,20,25,88824
+203465,003051,Kent State University at Stark,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,121,91614
+203517,003051,Kent State University at Kent,Public,1107,Computer Science.,3,Bachelor's Degree,108,81,121,91614
+203757,003069,Lourdes University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+203775,003072,Malone University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,5,PS,PS
+203845,003073,Marietta College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,9,PS,PS
+204024,003077,Miami University-Oxford,Public,1107,Computer Science.,3,Bachelor's Degree,127,178,PS,PS
+204200,003033,Mount St. Joseph University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,6,PS,PS
+204264,003084,Muskingum University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,,PS,PS
+204617,003035,Ohio Dominican University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,12,PS,PS
+204635,003089,Ohio Northern University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,11,PS,PS
+204802,003100,Ohio University-Eastern Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,57,93282
+204820,003100,Ohio University-Chillicothe Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,57,93282
+204839,003100,Ohio University-Southern Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,57,93282
+204848,003100,Ohio University-Lancaster Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,57,93282
+204857,003100,Ohio University-Main Campus,Public,1107,Computer Science.,3,Bachelor's Degree,53,60,57,93282
+204866,003100,Ohio University-Zanesville Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,57,93282
+204909,003109,Ohio Wesleyan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,9,PS,PS
+205203,003116,University of Rio Grande,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,5,PS,PS
+205957,003036,Franciscan University of Steubenville,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,10,PS,PS
+206048,003121,Tiffin University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+206437,003135,Walsh University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,17,PS,PS
+206491,003141,Wilberforce University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+206525,003143,Wittenberg University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,8,PS,PS
+206589,003037,The College of Wooster,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,25,24,PS,PS
+206622,003144,Xavier University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,21,25,26,104908
+206695,003145,Youngstown State University,Public,1107,Computer Science.,3,Bachelor's Degree,35,27,21,85028
+206914,003150,Cameron University,Public,1107,Computer Science.,3,Bachelor's Degree,13,13,18,83565
+207209,003157,Langston University,Public,1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+207263,003161,Northeastern State University,Public,1107,Computer Science.,3,Bachelor's Degree,38,41,57,67854
+207324,003165,Oklahoma Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,11,PS,PS
+207403,003164,Oklahoma Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+207500,003184,University of Oklahoma-Norman Campus,Public,1107,Computer Science.,3,Bachelor's Degree,102,88,75,110853
+207971,003185,University of Tulsa,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,59,51,16,109332
+209056,003197,Lewis & Clark College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,18,PS,PS
+209065,003198,Linfield University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,5,PS,PS
+209542,003210,Oregon State University,Public,1107,Computer Science.,3,Bachelor's Degree,843,877,712,121405
+209612,003212,Pacific University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,2,16,105018
+209807,003216,Portland State University,Public,1107,Computer Science.,3,Bachelor's Degree,168,160,147,113889
+209825,003224,University of Portland,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,38,38,39,125929
+210401,003227,Willamette University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,5,21,100650
+210669,003230,Allegheny College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,22,16,86069
+211273,003237,Bryn Mawr College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,19,PS,PS
+211440,003242,Carnegie Mellon University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,255,270,121,268121
+212009,003253,Dickinson College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,14,PS,PS
+212054,003256,Drexel University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,168,209,107,113610
+212106,003258,Duquesne University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,21,16,92606
+212133,003259,Eastern University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,5,PS,PS
+212577,003265,Franklin and Marshall College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,14,PS,PS
+212601,003266,Gannon University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,8,PS,PS
+212674,003268,Gettysburg College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,24,18,22,114433
+212805,003269,Grove City College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,32,30,PS,PS
+212911,003274,Haverford College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,2,PS,PS
+213251,003279,Juniata College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,13,PS,PS
+213303,003280,Keystone College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,1,PS,PS
+213321,003282,King's College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,9,PS,PS
+213358,003987,La Roche University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,5,17,68248
+213367,003287,La Salle University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,17,23,94659
+213507,003288,Lebanon Valley College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,2,PS,PS
+213543,003289,Lehigh University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,138,147,71,141691
+213826,003296,Marywood University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,1,PS,PS
+213996,003298,Messiah University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,18,17,74941
+214157,003301,Moravian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,15,PS,PS
+214175,003304,Muhlenberg College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,11,PS,PS
+214591,003329,Pennsylvania State University-Penn State Erie-Behrend College,Public,1107,Computer Science.,3,Bachelor's Degree,32,33,25,101854
+214777,003329,Pennsylvania State University-Main Campus,Public,1107,Computer Science.,3,Bachelor's Degree,,,25,101854
+214801,003329,Pennsylvania State University-Penn State Abington,Public,1107,Computer Science.,3,Bachelor's Degree,6,29,25,101854
+215062,003378,University of Pennsylvania,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,109,83,PS,PS
+215114,003351,Cairn University-Langhorne,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,6,PS,PS
+215284,003379,University of Pittsburgh-Johnstown,Public,1107,Computer Science.,3,Bachelor's Degree,20,27,266,108680
+215293,003379,University of Pittsburgh-Pittsburgh Campus,Public,1107,Computer Science.,3,Bachelor's Degree,203,195,266,108680
+215770,003367,Saint Joseph's University - Philadelphia,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,18,17,110178
+215798,003368,Saint Vincent College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,8,PS,PS
+215929,003384,University of Scranton,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,19,18,98369
+215947,003362,Seton Hill University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,6,PS,PS
+216357,003376,Thiel College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,5,PS,PS
+216524,003385,Ursinus College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,19,PS,PS
+216597,003388,Villanova University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,46,44,PS,PS
+216694,003391,Waynesburg University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,2,PS,PS
+216807,003392,Westminster College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,1,PS,PS
+216852,003313,Widener University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,14,19,96427
+217059,003399,York College of Pennsylvania,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,17,31,100044
+217156,003401,Brown University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,250,236,116,214479
+217235,003404,Johnson & Wales University-Providence,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,19,PS,PS
+217402,003406,Providence College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,13,PS,PS
+217420,003407,Rhode Island College,Public,1107,Computer Science.,3,Bachelor's Degree,44,42,39,83259
+217518,003410,Roger Williams University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,13,PS,PS
+217624,003417,Allen University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+217688,003419,Charleston Southern University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,8,24,97290
+217721,003420,Benedict College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,11,PS,PS
+217749,003421,Bob Jones University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,7,PS,PS
+217873,003424,Claflin University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,6,PS,PS
+217907,003427,Coker University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,5,PS,PS
+217961,003431,Converse University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+218070,003434,Furman University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,10,PS,PS
+218539,003445,Presbyterian College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,8,PS,PS
+218724,003451,Coastal Carolina University,Public,1107,Computer Science.,3,Bachelor's Degree,,17,PS,PS
+218964,003456,Winthrop University,Public,1107,Computer Science.,3,Bachelor's Degree,0,,PS,PS
+218973,003457,Wofford College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,19,9,17,86520
+219000,003458,Augustana University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,11,PS,PS
+219374,021437,Sinte Gleska University,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+219383,003469,University of Sioux Falls,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,1,PS,PS
+219602,003478,Austin Peay State University,Public,1107,Computer Science.,3,Bachelor's Degree,18,26,PS,PS
+219806,003481,Carson-Newman University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,2,PS,PS
+219833,003482,Christian Brothers University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,20,8,PS,PS
+219976,003486,Lipscomb University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,4,PS,PS
+220215,003492,Freed-Hardeman University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+220598,003499,Lane College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,11,PS,PS
+220604,003501,Le Moyne-Owen College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,1,PS,PS
+220613,003500,Lee University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,5,PS,PS
+220631,003502,Lincoln Memorial University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,0,PS,PS
+220862,003509,University of Memphis,Public,1107,Computer Science.,3,Bachelor's Degree,71,68,47,90207
+220978,003510,Middle Tennessee State University,Public,1107,Computer Science.,3,Bachelor's Degree,83,73,94,96485
+221351,003519,Rhodes College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,28,32,25,78973
+221519,003534,The University of the South,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,3,PS,PS
+221661,003518,Southern Adventist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,13,12,PS,PS
+221740,003529,The University of Tennessee-Chattanooga,Public,1107,Computer Science.,3,Bachelor's Degree,50,69,53,82644
+221759,003530,The University of Tennessee-Knoxville,Public,1107,Computer Science.,3,Bachelor's Degree,79,113,80,106312
+221768,003531,The University of Tennessee-Martin,Public,1107,Computer Science.,3,Bachelor's Degree,7,9,18,79403
+221838,003522,Tennessee State University,Public,1107,Computer Science.,3,Bachelor's Degree,27,28,46,67292
+221847,003523,Tennessee Technological University,Public,1107,Computer Science.,3,Bachelor's Degree,115,129,89,90521
+221892,003526,Trevecca Nazarene University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+221953,003527,Tusculum University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,3,PS,PS
+221971,003528,Union University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+221999,003535,Vanderbilt University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,205,198,53,160021
+222178,003537,Abilene Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,11,18,91894
+222983,003543,Austin College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,12,16,76196
+223232,003545,Baylor University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,27,42,128411
+224004,003557,Concordia University Texas,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,6,PS,PS
+224226,003560,Dallas Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,5,PS,PS
+224323,003651,University of Dallas,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,7,PS,PS
+225399,003576,Houston Christian University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,7,PS,PS
+225414,011711,University of Houston-Clear Lake,Public,1107,Computer Science.,3,Bachelor's Degree,46,59,45,77073
+225575,003577,Huston-Tillotson University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,0,PS,PS
+226231,003584,LeTourneau University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,7,PS,PS
+226471,003588,University of Mary Hardin-Baylor,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,11,16,78137
+227368,003599,The University of Texas Rio Grande Valley,Public,1107,Computer Science.,3,Bachelor's Degree,116,126,PS,PS
+227845,003621,Saint Edward's University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,21,21,30,87890
+227863,003654,University of St Thomas,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,8,PS,PS
+228149,003623,St. Mary's University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,5,PS,PS
+228246,003613,Southern Methodist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,90,95,30,126590
+228459,003615,Texas State University,Public,1107,Computer Science.,3,Bachelor's Degree,241,226,255,104127
+228468,003619,Southwestern Adventist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,3,PS,PS
+228529,003631,Tarleton State University,Public,1107,Computer Science.,3,Bachelor's Degree,13,17,22,102423
+228723,003632,Texas A&M University-College Station,Public,1107,Computer Science.,3,Bachelor's Degree,376,392,186,124283
+228769,003656,The University of Texas at Arlington,Public,1107,Computer Science.,3,Bachelor's Degree,230,170,117,109197
+228884,003638,Texas College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,2,PS,PS
+228981,003641,Texas Lutheran University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,6,PS,PS
+229160,003645,Texas Wesleyan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,11,PS,PS
+229780,003663,Wayland Baptist University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,4,PS,PS
+229814,003665,West Texas A & M University,Public,1107,Computer Science.,3,Bachelor's Degree,16,19,PS,PS
+230038,003670,Brigham Young University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,135,183,134,142800
+230047,001606,Brigham Young University-Hawaii,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,9,PS,PS
+230171,003671,Utah Tech University,Public,1107,Computer Science.,3,Bachelor's Degree,19,23,PS,PS
+230603,003678,Southern Utah University,Public,1107,Computer Science.,3,Bachelor's Degree,19,11,PS,PS
+230737,004027,Utah Valley University,Public,1107,Computer Science.,3,Bachelor's Degree,68,87,93,115541
+230764,003675,University of Utah,Public,1107,Computer Science.,3,Bachelor's Degree,219,226,130,137329
+230782,003680,Weber State University,Public,1107,Computer Science.,3,Bachelor's Degree,115,130,125,100157
+230807,003681,Westminster University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,11,9,PS,PS
+230816,003682,Bennington College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,9,PS,PS
+230852,003684,Champlain College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,27,19,48,97753
+230959,003691,Middlebury College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,53,57,22,128471
+230995,003692,Norwich University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,9,PS,PS
+231059,003694,Saint Michael's College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,8,PS,PS
+231165,003698,Vermont State University,Public,1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+231174,003696,University of Vermont,Public,1107,Computer Science.,3,Bachelor's Degree,90,84,74,81160
+231420,003702,Averett University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,5,PS,PS
+231581,003704,Bridgewater College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,13,24,81050
+231624,003705,William & Mary,Public,1107,Computer Science.,3,Bachelor's Degree,93,95,48,127851
+231651,030913,Regent University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,9,PS,PS
+231712,003706,Christopher Newport University,Public,1107,Computer Science.,3,Bachelor's Degree,50,60,54,101900
+232043,003708,Eastern Mennonite University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,7,PS,PS
+232186,003749,George Mason University,Public,1107,Computer Science.,3,Bachelor's Degree,22,25,PS,PS
+232256,003713,Hampden-Sydney College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,0,PS,PS
+232566,003719,Longwood University,Public,1107,Computer Science.,3,Bachelor's Degree,12,16,17,91313
+232706,003724,Marymount University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,1,PS,PS
+233277,003732,Radford University,Public,1107,Computer Science.,3,Bachelor's Degree,40,31,83,87740
+233426,003736,Roanoke College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,14,PS,PS
+233541,003737,Shenandoah University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,3,PS,PS
+233611,003738,Southern Virginia University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+233897,003747,University of Virginia's College at Wise,Public,1107,Computer Science.,3,Bachelor's Degree,6,8,PS,PS
+234085,003753,Virginia Military Institute,Public,1107,Computer Science.,3,Bachelor's Degree,24,18,30,94397
+234155,003764,Virginia State University,Public,1107,Computer Science.,3,Bachelor's Degree,14,27,PS,PS
+234207,003768,Washington and Lee University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,15,20,PS,PS
+234669,003769,Bellevue College,Public,1107,Computer Science.,3,Bachelor's Degree,42,37,PS,PS
+234827,003771,Central Washington University,Public,1107,Computer Science.,3,Bachelor's Degree,60,77,59,95368
+234915,013022,City University of Seattle,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,,PS,PS
+235316,003778,Gonzaga University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,44,45,48,121512
+235422,003777,Heritage University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,1,PS,PS
+236230,003785,Pacific Lutheran University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,26,18,PS,PS
+236328,003797,University of Puget Sound,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,26,19,34,98696
+236452,003794,Saint Martin's University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,8,7,23,80166
+236577,003788,Seattle Pacific University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,29,25,24,133039
+236595,003790,Seattle University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,75,84,56,128314
+236896,003799,Walla Walla University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,14,PS,PS
+236939,003800,Washington State University,Public,1107,Computer Science.,3,Bachelor's Degree,177,193,171,119686
+236948,003798,University of Washington-Seattle Campus,Public,1107,Computer Science.,3,Bachelor's Degree,494,495,280,175616
+237066,003804,Whitworth University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,28,33,35,87897
+237118,003806,Alderson Broaddus University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,,PS,PS
+237181,003808,Bethany College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,4,PS,PS
+237312,003818,University of Charleston,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,2,PS,PS
+237330,003810,Concord University,Public,1107,Computer Science.,3,Bachelor's Degree,5,11,PS,PS
+237358,003811,Davis & Elkins College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+237686,003828,West Virginia University at Parkersburg,Public,1107,Computer Science.,3,Bachelor's Degree,,0,PS,PS
+237899,003826,West Virginia State University,Public,1107,Computer Science.,3,Bachelor's Degree,8,3,PS,PS
+237969,003830,West Virginia Wesleyan College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,3,PS,PS
+238032,003827,West Virginia University,Public,1107,Computer Science.,3,Bachelor's Degree,65,72,52,98277
+238333,003835,Beloit College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,11,PS,PS
+238430,003837,Cardinal Stritch University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,,PS,PS
+238458,003838,Carroll University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,16,10,23,79438
+238616,003842,Concordia University-Wisconsin,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,6,1,23,75487
+238661,003848,Edgewood University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+239017,003856,Lawrence University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,10,PS,PS
+239318,003868,Milwaukee School of Engineering,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,35,37,PS,PS
+239628,003884,Ripon College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,2,PS,PS
+239716,003892,Saint Norbert College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,12,8,27,96237
+240277,003899,University of Wisconsin-Green Bay,Public,1107,Computer Science.,3,Bachelor's Degree,33,31,36,69304
+240338,021366,Wisconsin Lutheran College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,5,5,PS,PS
+240365,003920,University of Wisconsin-Oshkosh,Public,1107,Computer Science.,3,Bachelor's Degree,1,1,PS,PS
+240374,005015,University of Wisconsin-Parkside,Public,1107,Computer Science.,3,Bachelor's Degree,,,41,89495
+240426,003925,University of Wisconsin-Superior,Public,1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+240453,003896,University of Wisconsin-Milwaukee,Public,1107,Computer Science.,3,Bachelor's Degree,109,87,112,92342
+240462,003921,University of Wisconsin-Platteville,Public,1107,Computer Science.,3,Bachelor's Degree,3,5,PS,PS
+240471,003923,University of Wisconsin-River Falls,Public,1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+240480,003924,University of Wisconsin-Stevens Point,Public,1107,Computer Science.,3,Bachelor's Degree,1,4,PS,PS
+240727,003932,University of Wyoming,Public,1107,Computer Science.,3,Bachelor's Degree,33,36,38,99287
+240754,003935,University of Guam,Public,1107,Computer Science.,3,Bachelor's Degree,15,6,PS,PS
+241739,025875,Universidad Ana G. Mendez-Cupey Campus,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,5,PS,PS
+242617,042542,Inter American University of Puerto Rico-San German,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,17,15,PS,PS
+242626,003939,Inter American University of Puerto Rico-Aguadilla,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,35,36,PS,PS
+242635,005026,Inter American University of Puerto Rico-Arecibo,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,23,19,17,38420
+242644,005027,Inter American University of Puerto Rico-Barranquitas,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,9,7,PS,PS
+242653,003940,Inter American University of Puerto Rico-Metro,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,6,PS,PS
+242662,005029,Inter American University of Puerto Rico-Ponce,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,23,26,37,29212
+242680,022828,Inter American University of Puerto Rico-Fajardo,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,7,6,PS,PS
+242705,005028,Inter American University of Puerto Rico-Bayamon,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,18,16,23,48801
+243115,007228,University of Puerto Rico-Arecibo,Public,1107,Computer Science.,3,Bachelor's Degree,17,14,PS,PS
+243197,003944,University of Puerto Rico-Mayaguez,Public,1107,Computer Science.,3,Bachelor's Degree,9,14,27,57791
+243221,007108,University of Puerto Rico-Rio Piedras,Public,1107,Computer Science.,3,Bachelor's Degree,20,27,30,54102
+243577,021000,Universidad Politecnica de Puerto Rico,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+243665,003946,University of the Virgin Islands,Public,1107,Computer Science.,3,Bachelor's Degree,5,6,PS,PS
+243744,001305,Stanford University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,277,293,108,214907
+243780,001825,Purdue University-Main Campus,Public,1107,Computer Science.,3,Bachelor's Degree,439,560,210,146685
+247649,025326,Landmark College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,8,PS,PS
+366711,030113,California State University-San Marcos,Public,1107,Computer Science.,3,Bachelor's Degree,127,152,115,97827
+377555,003798,University of Washington-Bothell Campus,Public,1107,Computer Science.,3,Bachelor's Degree,246,202,280,175616
+409698,032603,California State University-Monterey Bay,Public,1107,Computer Science.,3,Bachelor's Degree,191,207,152,101787
+433387,033394,Western Governors University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,698,840,PS,PS
+436818,001417,University of Connecticut-Waterbury Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,1,72,108934
+436827,001417,University of Connecticut-Avery Point,Public,1107,Computer Science.,3,Bachelor's Degree,0,1,72,108934
+436836,001417,University of Connecticut-Stamford,Public,1107,Computer Science.,3,Bachelor's Degree,0,1,72,108934
+440828,003210,Oregon State University-Cascades Campus,Public,1107,Computer Science.,3,Bachelor's Degree,34,35,712,121405
+440916,002025,Southern University Law Center,Public,1107,Computer Science.,3,Bachelor's Degree,4,2,28,58951
+441937,039803,California State University-Channel Islands,Public,1107,Computer Science.,3,Bachelor's Degree,66,53,70,100887
+442569,041223,University of Arkansas Grantham,Public,1107,Computer Science.,3,Bachelor's Degree,31,25,53,74925
+445267,002453,Central Methodist University-College of Graduate and Extended Studies,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,14,9,38,59648
+456490,021000,Polytechnic University of Puerto Rico-Orlando,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,1,1,PS,PS
+459949,042485,Texas A&M University-San Antonio,Public,1107,Computer Science.,3,Bachelor's Degree,18,27,PS,PS
+460349,003404,Johnson & Wales University-Online,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,3,3,PS,PS
+460376,041440,Fairfax University of America,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,2,0,PS,PS
+461795,041795,North American University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,10,21,PS,PS
+463056,001417,University of Connecticut-Hartford Campus,Public,1107,Computer Science.,3,Bachelor's Degree,0,1,72,108934
+482149,001579,Augusta University,Public,1107,Computer Science.,3,Bachelor's Degree,4,4,PS,PS
+482936,042634,Florida Polytechnic University,Public,1107,Computer Science.,3,Bachelor's Degree,91,111,PS,PS
+483124,001081,Arizona State University Digital Immersion,Public,1107,Computer Science.,3,Bachelor's Degree,,0,341,114868
+486840,001577,Kennesaw State University,Public,1107,Computer Science.,3,Bachelor's Degree,200,224,248,96481
+486901,003511,Milligan University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,4,9,PS,PS
+488785,042597,University of Saint Katherine,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,0,0,PS,PS
+489937,002956,Carolina University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,1,PS,PS
+490805,001827,Purdue University Northwest,Public,1107,Computer Science.,3,Bachelor's Degree,21,30,22,88158
+491631,042652,Women's Institute of Torah Seminary and College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,6,PS,PS
+498562,003315,Commonwealth University of Pennsylvania,Public,1107,Computer Science.,3,Bachelor's Degree,19,18,32,85353
+498571,003316,Pennsylvania Western University,Public,1107,Computer Science.,3,Bachelor's Degree,4,12,PS,PS
+,002123,Becker College,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
+,003674,Independence University,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,154,64546
+,021108,California College San Diego,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,75,54362
+,025943,CollegeAmerica Denver,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,25,50921
+,031203,CollegeAmerica - Flagstaff,"Private, nonprofit",1107,Computer Science.,3,Bachelor's Degree,,,PS,PS
